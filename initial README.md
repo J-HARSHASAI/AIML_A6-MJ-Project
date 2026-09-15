@@ -12,7 +12,7 @@
 
 ## 📌 Overview
 
-Cardiovascular disease (CVD) is one of the major causes of morbidity and mortality worldwide. Traditional cardiovascular risk assessment primarily depends on clinical variables such as age, gender, blood pressure, lipid levels, diabetes status, and other risk factors.
+Cardiovascular disease (CVD) is one of the major causes of illness and death worldwide. Traditional cardiovascular risk assessment primarily depends on clinical variables such as age, gender, blood pressure, lipid levels, diabetes status, and other risk factors.
 
 Recent advances in deep learning have demonstrated that **retinal fundus photographs contain vascular information associated with systemic cardiovascular health**. At the same time, clinical variables provide complementary patient-level information.
 
