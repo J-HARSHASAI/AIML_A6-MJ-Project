@@ -1083,7 +1083,7 @@ The actual medical dataset should remain in the authorized local/server environm
 
 ---
 
-# ⚙️ Reproducibility
+# Reproducibility
 
 To make the project reproducible, the repository should maintain:
 
@@ -1114,7 +1114,7 @@ results/
 
 ---
 
-# 🚀 Immediate Implementation Plan
+# Immediate Implementation Plan
 
 The recommended order of implementation is:
 
